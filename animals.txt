@@ -1,0 +1,9 @@
+horse
+cow
+chicken
+whale
+seahorse
+dolphin
+monkey
+pythin
+bird of paradise
